@@ -1,0 +1,2 @@
+# araikordai
+termproject
